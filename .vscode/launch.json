@@ -1,0 +1,78 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ColorDemo",
+            "request": "launch",
+            "mainClass": "ColorDemo",
+            "projectName": "hw06-reserves-ohadbamram_a5050446"
+        },
+        {
+            "type": "java",
+            "name": "Editor1",
+            "request": "launch",
+            "mainClass": "Editor1",
+            "projectName": "hw06-reserves-ohadbamram_a5050446"
+        },
+        {
+            "type": "java",
+            "name": "Editor2",
+            "request": "launch",
+            "mainClass": "Editor2",
+            "projectName": "hw06-reserves-ohadbamram_a5050446"
+        },
+        {
+            "type": "java",
+            "name": "Editor3",
+            "request": "launch",
+            "mainClass": "Editor3",
+            "projectName": "hw06-reserves-ohadbamram_a5050446"
+        },
+        {
+            "type": "java",
+            "name": "Editor4",
+            "request": "launch",
+            "mainClass": "Editor4",
+            "projectName": "hw06-reserves-ohadbamram_a5050446",
+            "args": ["ironman.ppm", "3"]
+        },
+        {
+            "type": "java",
+            "name": "ImageProcessingTester",
+            "request": "launch",
+            "mainClass": "ImageProcessingTester",
+            "projectName": "hw06-reserves-ohadbamram_a5050446"
+        },
+        {
+            "type": "java",
+            "name": "In",
+            "request": "launch",
+            "mainClass": "In",
+            "projectName": "hw06-reserves-ohadbamram_a5050446"
+        },
+        {
+            "type": "java",
+            "name": "Runigram",
+            "request": "launch",
+            "mainClass": "Runigram",
+            "projectName": "hw06-reserves-ohadbamram_a5050446"
+        },
+        {
+            "type": "java",
+            "name": "StdDraw",
+            "request": "launch",
+            "mainClass": "StdDraw",
+            "projectName": "hw06-reserves-ohadbamram_a5050446"
+        }
+    ]
+}
